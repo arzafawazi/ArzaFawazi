@@ -51,25 +51,9 @@ I have great interest in FullStack Development, Web Development, Blockchain, and
   <img src="https://github-profile-trophy.vercel.app/?username=arzafawazi&theme=onedark&row=1&column=7" alt="trophy" />
 </p>
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-### 🌞 Light Mode
-![GitHub Snake Light](https://raw.githubusercontent.com/<username>/<repo>/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-### 🌙 Dark Mode
-![GitHub Snake Dark](https://raw.githubusercontent.com/<username>/<repo>/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
-### 🎞 Animated Version
-![GitHub Snake Animation](https://raw.githubusercontent.com/<username>/<repo>/output/github-contribution-grid-snake.svg)
-
-### 🖼 PNG Preview
-![GitHub Snake PNG](https://raw.githubusercontent.com/<username>/<repo>/output/github-contribution-grid-snake.png)
-
-</div>
+### 🐍 Snake animation
+![GitHub Snake Light](https://raw.githubusercontent.com/arzafawazi/arzafawazi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/arzafawazi/arzafawazi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 ---
