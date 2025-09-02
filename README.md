@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Arza Fawazi</h1>
 <h3 align="center">💻 Software Engineer | 🌐 Fullstack Developer | ☕ Coffee Enthusiast</h3>
 
-### 🐍 Snake animation
-![GitHub Snake Light](https://raw.githubusercontent.com/arzafawazi/arzafawazi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/arzafawazi/arzafawazi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!-- Typing Animation -->
 <p align="center">
@@ -55,9 +52,9 @@ I have great interest in FullStack Development, Web Development, Blockchain, and
 </p>
 
 <!-- Snake Graph -->
-<p align="center">
-  <img src="https://github.com/arzafawazi/arzafawazi/blob/output/github-contribution-grid-snake.svg" alt="snake graph"/>
-</p>
+### 🐍 Snake animation
+![GitHub Snake Light](https://raw.githubusercontent.com/arzafawazi/arzafawazi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/arzafawazi/arzafawazi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
