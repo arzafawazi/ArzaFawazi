@@ -1,39 +1,162 @@
-<h1 align="center">Hi 👋, I'm Arza Fawazi</h1>
-<h3 align="center">Hi, I'm Arza 👋 💻 a software engineer and technology Enthusiast. I have great interest in the fields of FullStack Developer, Web Development, Block Chain Developer and everything in between. ⚙ I have experience in Web Development using PHP and JavaScript and have several technologies that I have used such as MySQL, Git, Jquery, Bootstrap, Tailwind, and many more. and of course, I really want to learn more about the modern Technology Stack especially for laravel inertia and the javascript family. btw, I like coffee☕</h3>
+# 🚀 Arza Fawazi | Full Stack Developer & Tech Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arzafawazi&label=Profile%20views&color=0e75b6&style=flat" alt="arzafawazi" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arza+Fawazi;Full+Stack+Developer;Blockchain+Enthusiast;Coffee+Lover+%E2%98%95;Always+Learning+New+Tech!" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzafawazi" alt="arzafawazi" /></a> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-<p align="left"> <a href="https://twitter.com/arzafawazi" target="blank"><img src="https://img.shields.io/twitter/follow/arzafawazi?logo=twitter&style=for-the-badge" alt="arzafawazi" /></a> </p>
+---
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/arzafawazi](https://www.linkedin.com/in/arzafawazi)
+## 🎯 About Me
 
-- 📫 How to reach me **arza.fawazi103@gmail.com**
+🔭 **Full Stack Developer** passionate about creating innovative web solutions  
+💻 **Tech Stack**: PHP, JavaScript, Laravel, React, Vue.js, Node.js  
+🌱 **Currently Learning**: Laravel Inertia, Modern JavaScript Frameworks, Blockchain  
+⚡ **Fun Fact**: I run on coffee ☕ and code 💻  
+🌍 **Based in**: Medan, North Sumatra, Indonesia  
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arzafawazi](https://www.linkedin.com/in/arzafawazi)
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/arzafawazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arzafawazi" height="30" width="40" /></a>
-<a href="https://dev.to/arzafawazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arzafawazi" height="30" width="40" /></a>
-<a href="https://twitter.com/arzafawazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arzafawazi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arzafawazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arzafawazi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arzafawazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arzafawazi" height="30" width="40" /></a>
-<a href="https://fb.com/arzafawazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arzafawazi" height="30" width="40" /></a>
-<a href="https://instagram.com/arzafawazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arzafawazi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arzafawazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arzafawazi" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arzafawazi&show_icons=true&locale=en&layout=compact" alt="arzafawazi" /></p>
+### 🚀 Frameworks & Libraries  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arzafawazi&show_icons=true&locale=en" alt="arzafawazi" /></p>
+### 🎨 UI/UX & Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arzafawazi&" alt="arzafawazi" /></p>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=arzafawazi&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arzafawazi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzafawazi&layout=compact&langs_count=8&theme=radical"/>
+
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arzafawazi&theme=radical)](https://git.io/streak-stats)
+
+### 📊 Contribution Graph
+[![Arza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arzafawazi&theme=react-dark)](https://github.com/arzafawazi/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/arzafawazi/awesome-laravel-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arzafawazi&repo=awesome-laravel-project&theme=radical" />
+</a>
+<a href="https://github.com/arzafawazi/react-modern-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arzafawazi&repo=react-modern-app&theme=radical" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arzafawazi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arzafawazi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arzafawazi)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/arzafawazi)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/arzafawazi)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arzafawazi)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arzafawazi)
+
+📧 **Email**: [arza.fawazi103@gmail.com](mailto:arza.fawazi103@gmail.com)
+
+</div>
+
+---
+
+## 💡 What I'm Up To
+
+```javascript
+const arza = {
+    pronouns: "He/Him",
+    location: "Medan, North Sumatra, Indonesia",
+    currentFocus: ["Laravel Inertia", "Modern JavaScript", "Blockchain Development"],
+    hobbies: ["Coding", "Learning New Tech", "Coffee Brewing", "Open Source"],
+    funFact: "I debug with console.log() and I'm not ashamed! ☕💻",
+    lifePhilosophy: "Code with passion, debug with patience",
+    currentlyListening: "Lofi Hip Hop while coding 🎵"
+};
+```
+
+---
+
+## 🎯 2025 Goals
+
+- 🚀 Master Laravel Inertia.js for seamless SPA development
+- 🌐 Build and contribute to more open-source projects  
+- 🔗 Dive deeper into blockchain and Web3 technologies
+- 📱 Launch my first mobile app using React Native
+- ☕ Perfect my coffee brewing skills (equally important!)
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=arzafawazi&label=Profile%20views&color=0e75b6&style=flat)
+
+### 💖 Support My Work
+If you find my projects helpful, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arzafawazi)
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+**⭐ From [arzafawazi](https://github.com/arzafawazi) with ❤️**
+
+</div>
