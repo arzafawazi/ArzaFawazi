@@ -68,8 +68,8 @@ I have great interest in FullStack Development, Web Development, Blockchain, and
 ### 🎧 Spotify Now Playing  
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ubf22pqguo34wfub5afsd7ecxi&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ubf22pqguo34wfub5afsd7ecxi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" width="450"/>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31yejdqbu37qlipwnlg66mo3uk5y&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yejdqbu37qlipwnlg66mo3uk5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" width="450"/>
   </a>
 </p>
 
