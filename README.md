@@ -9,6 +9,9 @@
 
 ---
 
+<!-- Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=80&section=header" width="100%"/>
+
 ### 👨‍💻 About Me  
 Hi, I'm Arza 👋 💻 a software engineer and technology enthusiast.  
 I have great interest in FullStack Development, Web Development, Blockchain, and everything in between ⚙  
@@ -17,6 +20,18 @@ I have great interest in FullStack Development, Web Development, Blockchain, and
 - 🛠️ I also use MySQL, Git, jQuery, Bootstrap, Tailwind, and more  
 - 🌱 Currently learning **Laravel Inertia & JavaScript ecosystem**  
 - ☕ Fun fact: I can’t code without coffee!  
+
+---
+
+### 🏷️ Badges & Dynamic Info  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-PHP-blue?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-Framework-red?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JS-JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?logo=github" />
+  <img src="https://img.shields.io/badge/Coffee%20Lover-☕-brown" />
+</p>
 
 ---
 
@@ -35,8 +50,27 @@ I have great interest in FullStack Development, Web Development, Blockchain, and
   <img src="https://github-profile-trophy.vercel.app/?username=arzafawazi&theme=onedark&row=1&column=7" alt="trophy" />
 </p>
 
+<!-- Snake Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arzafawazi&theme=react-dark&hide_border=true" alt="activity graph"/>
+  <img src="https://github.com/arzafawazi/arzafawazi/blob/output/github-contribution-grid-snake.svg" alt="snake graph"/>
+</p>
+
+---
+
+### ⏱ WakaTime Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arzafawazi&theme=tokyonight&layout=compact" height="300"/>
+</p>
+
+---
+
+### 🎧 Spotify Now Playing  
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ubf22pqguo34wfub5afsd7ecxi&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ubf22pqguo34wfub5afsd7ecxi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" width="450"/>
+  </a>
 </p>
 
 ---
@@ -51,27 +85,28 @@ I have great interest in FullStack Development, Web Development, Blockchain, and
 
 ---
 
-### 🌐 Connect with Me  
+### 🤝 Connect with Me  
 
 <p align="center">
-  <a href="https://codepen.io/arzafawazi"><img src="https://skillicons.dev/icons?i=codepen" height="40" /></a>
-  <a href="https://dev.to/arzafawazi"><img src="https://skillicons.dev/icons?i=devto" height="40" /></a>
-  <a href="https://twitter.com/arzafawazi"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://linkedin.com/in/arzafawazi"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://stackoverflow.com/users/arzafawazi"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" /></a>
-  <a href="https://fb.com/arzafawazi"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
-  <a href="https://instagram.com/arzafawazi"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://www.youtube.com/c/arzafawazi"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
+  <a href="https://linkedin.com/in/arzafawazi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:arza.fawazi103@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://twitter.com/arzafawazi">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://instagram.com/arzafawazi">
+    <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram"/>
+  </a>
 </p>
-
----
-
-### 📫 Contact Me  
-- ✉️ **arza.fawazi103@gmail.com**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/arzafawazi)  
 
 ---
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=arzafawazi&label=Profile%20views&color=0e75b6&style=flat" alt="arzafawazi" /> 
 </p>
+
+<!-- Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=80&section=footer" width="100%"/>
