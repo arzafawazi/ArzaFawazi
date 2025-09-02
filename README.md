@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Arza Fawazi</h1>
 <h3 align="center">💻 Software Engineer | 🌐 Fullstack Developer | ☕ Coffee Enthusiast</h3>
 
+### 🐍 Snake animation
+![GitHub Snake Light](https://raw.githubusercontent.com/arzafawazi/arzafawazi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/arzafawazi/arzafawazi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Web+Development+Enthusiast;Blockchain+Learner;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG">
